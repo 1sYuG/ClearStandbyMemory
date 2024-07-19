@@ -1,1 +1,1 @@
-Add to Task Scheduler and import new task.
+Add the .xml to Task Scheduler and import new task.
